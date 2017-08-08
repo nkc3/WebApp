@@ -28,7 +28,7 @@
       <tr>
       	<!--**10th July 2017 at 3:10PM**-->
       		<!-- **10th July 2017 at 3:10PM**-->
-           <td><font color="#000000" style="font-weight: bold;">Test Environment of RTC JIRA</font></td>
+           <td><font color="#000000" style="font-weight: bold;">Test Environment of RTC JIRA with Jenkins</font></td>
         </tr>  
          <!--  <tr>                            
           
