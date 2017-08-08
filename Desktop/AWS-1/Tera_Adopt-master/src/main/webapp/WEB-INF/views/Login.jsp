@@ -20,7 +20,7 @@
      <td>&nbsp;</td>
   </tr>
   <tr>
-     <td><h2>Sample Java application for ADOPT demo with IBM Tools 1.0</h2></td>     
+     <td><h2>Sample Java application for ADOPT demo with IBM Tools 11.0</h2></td>     
   </tr>
   <tr>
      <td>  
